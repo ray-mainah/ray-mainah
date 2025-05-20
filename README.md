@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning machine learning <br/>
 - 💞️ I’m looking to collaborate on Geospatial projects <br/>
 - 📫 How to reach me mainahray27@gmail.com.com <br/>
-- 😄 I am a great scientist. Check [portfolio](https://engmainah.netlify.app/)
+- 😄 I am a great scientist. Check [portfolio](https://raymainah.netlify.app/)
+- - 😄 I am a GOAT GIS analyst. Check [portfolio](https://mainnahgis.netlify.app/)
 
 
 ## 🌐 Socials:
